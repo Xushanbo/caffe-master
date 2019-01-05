@@ -1,0 +1,1 @@
+dir *.jpg  /b>rename.xls
